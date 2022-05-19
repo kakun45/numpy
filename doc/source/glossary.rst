@@ -1,5 +1,5 @@
 ********
-Glossary
+NumPy Glossary
 ********
 
 .. glossary::
